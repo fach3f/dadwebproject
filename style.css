@@ -1,0 +1,72 @@
+.navbar-nav {
+    margin-left: auto; /* Memindahkan menu ke sebelah kanan */
+}
+.nav-item {
+    margin-left: 15px; /* Spasi antara setiap elemen menu */
+}
+.fa-brands.fa-instagram{
+    position: absolute;
+    left: 1300px;
+    font-size: 20px;
+    top: 20px;
+}
+.fa-brands.fa-linkedin-in{
+    position: absolute;
+    left: 1350px;
+    font-size: 20px;
+    top: 19px;
+}
+.fa-brands.fa-youtube{
+    position: absolute;
+    left: 1400px;
+    font-size: 20px;
+    top: 20px;
+}
+.Rehat{
+    max-width: 100%;
+}
+.nav-link{
+    font-size: 20px;
+}
+.navbar-brand{
+    margin-left: 40px;
+    letter-spacing: 4px;
+    font-weight: bold;
+}
+.fa-regular.fa-copyright{
+    position: absolute;
+    left: 24px;
+}
+.me{
+    text-align: center;
+}
+.kotak1{
+    background-color: black;
+    width: 500px;
+    height: 5px;
+    margin-left: 100px;
+    top: 125px;
+    position: absolute;
+    font-size: 4vw;
+}
+.kotak2{
+    background-color: black;
+    width: 500px;
+    height: 5px;
+    margin-left: 880px;
+    top: 125px;
+    position: absolute;
+    font-size: 4vw;
+}
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+h1 {
+    font-family: 'Quicksand', sans-serif;
+}
+@media screen and (max-width: 1000px) {
+    .kotak1{
+        width: 100px;
+        margin-left: 200px;
+        }
+    }
